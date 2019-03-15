@@ -1,0 +1,17 @@
+{
+  "name": "onegai",
+  "version": "1.0.0",
+  "main": "codecept.conf.js",
+  "scripts": {
+    "test": "codeceptjs run form_test.js --steps"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^2.0.7",
+    "excel4node": "^1.7.0",
+    "puppeteer": "^1.13.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
